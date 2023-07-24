@@ -11,6 +11,15 @@
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
+## Index
+- Data Understanding
+- Exploratory Data Analysis
+- Data Preparation
+- Training Data
+- Residual Analysis
+- Prediction on Final Model
+- Model Evaluation: Scatter Plot of Actual vs. Predicted Values
+
 =========================================
 Dataset characteristics
 =========================================	
